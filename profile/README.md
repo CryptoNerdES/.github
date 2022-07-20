@@ -1,4 +1,7 @@
 # CryptoNerdES
 
-Web: [https://cryptonerd.es](https://cryptonerd.es/)
-Foro: [https://cryptonerd.es](https://cryptonerd.es/foro)
+En español:
+
+Web: [Blog](https://cryptonerd.es/)
+
+Foro: [Foro](https://cryptonerd.es/foro)
